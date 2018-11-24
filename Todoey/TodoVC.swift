@@ -48,6 +48,7 @@ class TodoVC: UITableViewController {
         }
         
         tableView.deselectRow(at: indexPath, animated: true)
+        
     }
 
 }
